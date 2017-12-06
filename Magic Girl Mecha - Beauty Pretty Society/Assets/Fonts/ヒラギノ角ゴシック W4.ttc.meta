@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: fdbb895da96354365938f4e3fd34e747
+timeCreated: 1512540178
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Hiragino Sans
+  fontNames:
+  - Hiragino Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5a3251f0ce9244cad86a6bd567f5d3b7, type: 3}
+  - {fileID: 12800000, guid: 8a0901c4df97a42998e529c3e3b3dd3d, type: 3}
+  - {fileID: 12800000, guid: 39dd02079a9f846ab8b21614bac2ce0a, type: 3}
+  - {fileID: 12800000, guid: 688610f88849a4f42abbefd800723ef7, type: 3}
+  - {fileID: 12800000, guid: b7685ff93e29f4fa2a78d511ab0f16f7, type: 3}
+  - {fileID: 12800000, guid: 8241a50bf81c74c6fbdf41caecf8b55c, type: 3}
+  - {fileID: 12800000, guid: d6f902ab3eb824051ab241d874270994, type: 3}
+  - {fileID: 12800000, guid: 242ce9ed14ff7418090b43f7be5157de, type: 3}
+  - {fileID: 12800000, guid: 24ea99efccbce434e963d3a24a70d257, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
