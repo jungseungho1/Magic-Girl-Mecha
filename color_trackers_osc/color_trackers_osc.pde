@@ -32,7 +32,7 @@ void setup()
   trackColorY = color(253.0, 252.0, 143.0); //track a yellow image on a screen
 
   oscP5 = new OscP5(this,11000);//listening port, just in case
-  myRemoteLocation = new NetAddress("127.0.0.1",12000);//sending port
+  myRemoteLocation = new NetAddress("127.0.0.1",1234);//sending port
   
   colorTrackers[0] = new ColorTracker(trackColorR);
   colorTrackers[1] = new ColorTracker(trackColorG);
